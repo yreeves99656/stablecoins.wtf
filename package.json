@@ -1,0 +1,10 @@
+{
+  "name": "stablecoins.wtf",
+  "version": "0.1.0",
+  "description": "Crypto Stablecoin Dashboard & Resources",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
