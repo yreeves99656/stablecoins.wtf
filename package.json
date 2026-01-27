@@ -1,6 +1,6 @@
 {
   "name": "stablecoins.wtf",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Crypto Stablecoin Dashboard & Resources",
   "main": "src/index.ts",
   "scripts": {
